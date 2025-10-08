@@ -4,7 +4,7 @@ Hi there, I'm Irsyad—a newbie programmer from Indonesia.
 ## Little things about me
 <ul>
   <li>I’m currently learning more things about <b>programming</b></li>
-  <li>Want to be a <b>game developer</b> or <b>voice actor</b> someday</li>
+  <li>Want to be a <b>game developer</b> someday</li>
 </ul>
 
 ## Get in touch
