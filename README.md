@@ -9,7 +9,7 @@ Hi there, I'm Irsyad—a newbie programmer from Indonesia.
 
 ## Get in touch
 <ul>
-  <li><a href="https://www.instagram.com/zurus1ght">Instagram</a></li>
+  <li><a href="https://www.instagram.com/juangirsyad">Instagram</a></li>
   <li><a href="https://www.facebook.com/muhammad.juang.irsyad">Facebook</a></li>
   <li><a href="https://discord.com/users/710778913508556880">Discord</a></li>
 </ul>
