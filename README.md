@@ -1,5 +1,5 @@
 # Irsyad
-Hi there, I'm Irsyad—a newbie programmer from Indonesia.
+Hi there, I'm Irsyad
 
 ## Little things about me
 <ul>
